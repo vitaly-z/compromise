@@ -20,6 +20,10 @@ While all _Major_ releases should be reviewed, our only _large_ releases are **v
 - **[fix]** - .before() .after()
 -->
 
+#### 14.15.0 [Feb 2026]
+- **[update]** - support for Typescript 7 #1198
+- **[update]** - dependencies
+
 #### 14.14.5 [Dec 2025]
 - **[fix]** - update types #1181 
 - **[update]** - add nelissa and gert #1180 
